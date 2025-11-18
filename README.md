@@ -16,7 +16,7 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 - 💻 **Backend Developer:** Building scalable APIs and modern architectures with NestJS, Node.js, Spring Boot, Prisma, and GraphQL.  
 - 🎨 **Product Designer:** Focused on usability, aesthetics, and human-centered product experiences.  
 - 📱 **Android Enthusiast:** Building mobile apps using Kotlin, Jetpack Compose, Hilt, and Room with clean architecture principles.  
-- ⛓️ **Blockchain Developer:** Integrating wallets, smart contracts, multi-chain dApps, and real-time data with Wagmi, Viem, RainbowKit, The Graph, and Alchemy.  
+- ⛓️ **Blockchain Developer:** Integrating wallets, smart contracts, multi-chain dApps, and real-time data with Solidity, Wagmi, Viem, RainbowKit, The Graph, and Alchemy.  
 - ☁️ **Cloud Explorer:** Comfortable with containerization and cloud workflows using Docker.
 
 ---
@@ -54,6 +54,7 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 ---
 
 ### ⛓️ Blockchain Development
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/Wagmi-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=webpack&logoColor=white)
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-FF7B00?style=for-the-badge&logo=rainbow&logoColor=white)
@@ -105,7 +106,7 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 - 📧 **Email:** [shakilochieng@gmail.com](mailto:shakilochieng@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/shakil-developsanddesign](https://www.linkedin.com/in/shakil-developsanddesign/)  
 - 🐦 **X (Twitter):** [x.com/_0xshakil](https://x.com/_0xshakil)  
-- 💻 **GitHub:** [github.com/ShakilOmondi](https://github.com/ShakilOmondi)
+- 💻 **GitHub:** [github.com/ShakilOmondi](https://github.com/0xshakilKE)
 
 ---
 
