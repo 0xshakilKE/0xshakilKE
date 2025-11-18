@@ -7,12 +7,20 @@ I enjoy exploring how technology connects design, software, and user needs — f
 
 ---
 
-## 🧠 About Me
-- 🧩 Frontend Development: Designing seamless, responsive, and visually stunning web experiences with React, Angular, and Tailwind CSS.
-- 💻 Backend Developer passionate about scalable APIs and modern architectures  
-- 🎨 Product Designer focused on clean, user-centric interfaces  
-- 📱 Android Enthusiast building mobile experiences with creativity  
-- ☁️ Cloud Explorer with AWS, Docker & Kubernetes experience  
+###🧠 About Me
+
+I'm a multidisciplinary developer passionate about building clean, performant, and user-centered digital experiences.
+From crafting intuitive UI layouts to architecting scalable backend systems, I love turning ideas into seamless products.
+
+🧩 Frontend Developer: Creating responsive, elegant, and interactive interfaces using React, Next.js, TypeScript, and TailwindCSS.
+
+💻 Backend Developer: Passionate about scalable APIs and efficient architectures with NestJS, Node.js, Spring Boot, Prisma, and GraphQL.
+
+🎨 Product Designer: Focused on usability, aesthetics, and creating human-centered product experiences.
+
+📱 Android Enthusiast: Building mobile applications using Kotlin, Hilt, and Room with clean architecture principles.
+
+☁️ Cloud Explorer: Comfortable with containerization and cloud workflows using Docker.
 
 ---
 
