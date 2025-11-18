@@ -29,11 +29,12 @@ I enjoy exploring how technology connects design, software, and user needs — f
 
 ---
 
-### ⚙️ Backend Development  
+### ⚙️ Backend Development 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -45,11 +46,8 @@ I enjoy exploring how technology connects design, software, and user needs — f
 
 ### 📱 Mobile App Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-
-
+![Hilt](https://img.shields.io/badge/Hilt-00C4B3?style=for-the-badge&logo=dagger&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -59,21 +57,24 @@ I enjoy exploring how technology connects design, software, and user needs — f
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+
 ---
 
 ### ☁️ Cloud Services  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ---
+# ⛓️ Blockchain Development
+![Wagmi](https://img.shields.io/badge/Wagmi-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=webpack&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-FF7B00?style=for-the-badge&logo=rainbow&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-5A1E9A?style=for-the-badge&logo=thegraph&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0C?style=for-the-badge&logo=alchemy&logoColor=white)
+
 
 ### 🖌️ Design Tools  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 ## 🏆 Featured Projects  
