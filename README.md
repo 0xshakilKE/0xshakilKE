@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shakil Omondi  
 
-🚀 **Full-Stack Developer | Product Designer | Mobile & Blockchain Developer**
+🚀 **Mobile(Android & iOS) Developer and Blockchain Engineer**
 
 I’m passionate about building seamless digital experiences that blend clean UI/UX design with strong backend performance.  
 I enjoy exploring how technology connects design, software, and user needs — from web apps to mobile apps and decentralized systems.
@@ -50,7 +50,7 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-00C4B3?style=for-the-badge&logo=dagger&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
-
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ---
 
 ### ⛓️ Blockchain Development
