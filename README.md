@@ -47,7 +47,6 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 
 ### 📱 Mobile App Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-[Kotlin Multiplatform (KMP)](https://kotlinlang.org/docs/multiplatform.html)
 ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-00C4B3?style=for-the-badge&logo=dagger&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
