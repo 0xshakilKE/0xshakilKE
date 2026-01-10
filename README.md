@@ -15,7 +15,7 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 - 🧩 **Frontend Developer:** Creating responsive, elegant, and interactive interfaces using React, Next.js, TypeScript, and TailwindCSS.  
 - 💻 **Backend Developer:** Building scalable APIs and modern architectures with NestJS, Node.js, Spring Boot, Prisma, and GraphQL.  
 - 🎨 **Product Designer:** Focused on usability, aesthetics, and human-centered product experiences.  
-- 📱 **Android Enthusiast:** Building mobile apps using Kotlin, Jetpack Compose, Hilt,Swift and Room with clean architecture principles.  
+- 📱 **Android Enthusiast:** Building mobile apps using Kotlin, Jetpack Compose, Hilt and Room with clean architecture principles.  
 - ⛓️ **Blockchain Developer:** Integrating wallets, smart contracts, multi-chain dApps, and real-time data with Solidity, Wagmi, Viem, RainbowKit, The Graph, and Alchemy.  
 - ☁️ **Cloud Explorer:** Comfortable with containerization and cloud workflows using Docker.
 
@@ -50,7 +50,6 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-00C4B3?style=for-the-badge&logo=dagger&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ---
 
 ### ⛓️ Blockchain Development
