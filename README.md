@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Shakil Omondi  
 
-🚀 **Mobile(Android & iOS) Developer and Blockchain Engineer**
+🚀 **Mobile (Android & iOS) Developer and Blockchain Engineer**
 
 I’m passionate about building seamless digital experiences that blend clean UI/UX design with strong backend performance.  
 I enjoy exploring how technology connects design, software, and user needs — from web apps to mobile apps and decentralized systems.
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 I'm a multidisciplinary developer passionate about building clean, performant, and user-centered digital experiences.  
 From crafting intuitive UI layouts to architecting scalable backend systems, I love turning ideas into seamless products.
@@ -15,7 +15,7 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 - 🧩 **Frontend Developer:** Creating responsive, elegant, and interactive interfaces using React, Next.js, TypeScript, and TailwindCSS.  
 - 💻 **Backend Developer:** Building scalable APIs and modern architectures with NestJS, Node.js, Spring Boot, Prisma, and GraphQL.  
 - 🎨 **Product Designer:** Focused on usability, aesthetics, and human-centered product experiences.  
-- 📱 **Android Enthusiast:** Building mobile apps using Kotlin, Jetpack Compose, Hilt and Room with clean architecture principles.  
+- 📱 **Android Enthusiast:** Building mobile apps using Kotlin, Jetpack Compose, Hilt, and Room with clean architecture principles.  
 - ⛓️ **Blockchain Developer:** Integrating wallets, smart contracts, multi-chain dApps, and real-time data with Solidity, Wagmi, Viem, RainbowKit, The Graph, and Alchemy.  
 - ☁️ **Cloud Explorer:** Comfortable with containerization and cloud workflows using Docker.
 
@@ -34,7 +34,7 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -45,14 +45,15 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 
 ---
 
-### 📱 Mobile App Development
+### 📱 Mobile App Development  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-00C4B3?style=for-the-badge&logo=dagger&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
 ---
 
-### ⛓️ Blockchain Development
+### ⛓️ Blockchain Development  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/Wagmi-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=webpack&logoColor=white)
@@ -77,6 +78,8 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 
 ### 🖌️ Design Tools  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
 
 ---
 
@@ -84,16 +87,18 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 
 ### 🧠 Adgency Kenya  
 **Tech:** React.js, TypeScript, Tailwind CSS, Node.js, MongoDB  
-**Impact:** A digital marketing and branding platform helping businesses grow online through data-driven campaigns, creative design, and social media management.  
-- Designed and built the full-stack architecture for campaign management and analytics.  
-- Created responsive UI components using React and Tailwind CSS.  
-- Integrated backend APIs for user management, project tracking, and client engagement.  
-- Collaborated on visual assets and social media content to boost client reach.  
+**Impact:** A digital marketing and branding platform helping businesses grow online through data-driven campaigns, creative design, and social media management.
+
+- Designed and built the full-stack architecture for campaign management and analytics  
+- Created responsive UI components using React and Tailwind CSS  
+- Integrated backend APIs for user management, project tracking, and client engagement  
+- Collaborated on visual assets and social media content to boost client reach  
+
 🔗 **[Visit Adgency Kenya](#)**
 
 ---
 
-### 🌐 Availability
+## 🌐 Availability
 
 - **Remote:** Open to full-time or contract roles globally 🌍  
 - **Local (Kenya):** Available for full-time or freelance projects 🇰🇪  
@@ -105,14 +110,14 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 - 📧 **Email:** [shakilochieng@gmail.com](mailto:shakilochieng@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/shakil-developsanddesign](https://www.linkedin.com/in/shakil-developsanddesign/)  
 - 🐦 **X (Twitter):** [x.com/_0xshakil](https://x.com/_0xshakil)  
-- 💻 **GitHub:** [github.com/ShakilOmondi](https://github.com/0xshakilKE)
+- 💻 **GitHub:** [github.com/0xshakilKE](https://github.com/0xshakilKE)
 
 ---
 
-### ✨ Quote
+### ✨ Quote  
 > “Great design isn’t just how it looks — it’s how it **works** and **feels**.”
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact  
 When I’m not coding or designing, I’m probably exploring product design or doing some marketing.
