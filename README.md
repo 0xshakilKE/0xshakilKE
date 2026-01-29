@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shakil Omondi  
 
-🚀 **Mobile (Android & iOS) Developer and Blockchain Engineer**
+🚀 **FULLSTACK, MOBILE(ANDROID/IOS) AND BLOCKCHAIN DEVELOPER**
 
 I’m passionate about building seamless digital experiences that blend clean UI/UX design with strong backend performance.  
 I enjoy exploring how technology connects design, software, and user needs — from web apps to mobile apps and decentralized systems.
