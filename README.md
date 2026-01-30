@@ -1,4 +1,4 @@
-# **👋 Hi, I'M SHAKIL OMONDI**
+# **👋 Hi, I'm Shakil Omondi**
 
 ##  🚀 FULLSTACK, MOBILE(ANDROID/IOS) AND BLOCKCHAIN DEVELOPER
 
