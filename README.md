@@ -1,6 +1,6 @@
 # **👋 Hi, I'm Shakil Omondi**
 
-##  🚀 Fullstack, Mobile(Android & IOS) and Blockchain Developer
+##  🚀 Product Engineer & Marketer
 
 I’m passionate about building seamless digital experiences that blend clean UI/UX design with strong backend performance.  
 I enjoy exploring how technology connects design, software, and user needs — from web apps to mobile apps and decentralized systems.
