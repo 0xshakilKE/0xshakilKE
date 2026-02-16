@@ -83,21 +83,6 @@ From crafting intuitive UI layouts to architecting scalable backend systems, I l
 
 ---
 
-## 🏆 Featured Projects  
-
-### 🧠 Adgency Kenya  
-**Tech:** React.js, TypeScript, Tailwind CSS, Node.js, MongoDB  
-**Impact:** A digital marketing and branding platform helping businesses grow online through data-driven campaigns, creative design, and social media management.
-
-- Designed and built the full-stack architecture for campaign management and analytics  
-- Created responsive UI components using React and Tailwind CSS  
-- Integrated backend APIs for user management, project tracking, and client engagement  
-- Collaborated on visual assets and social media content to boost client reach  
-
-🔗 **[Visit Adgency Kenya](#)**
-
----
-
 ## 🌐 Availability
 
 - **Remote:** Open to full-time or contract roles globally 🌍  
