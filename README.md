@@ -1,108 +1,83 @@
-# **👋 Hi, I'm Shakil Omondi**
+# 👋 Hi, I'm Shakil Omondi
 
-##  🚀 Product Engineer & Marketer
+**Product Engineer • Full-Stack Developer • Product Designer • Blockchain Builder**
 
-I’m passionate about building seamless digital experiences that blend clean UI/UX design with strong backend performance.  
-I enjoy exploring how technology connects design, software, and user needs — from web apps to mobile apps and decentralized systems.
+Passionate about creating **seamless, performant, and user-centered digital products** — from pixel-perfect interfaces to scalable APIs and decentralized applications.
+
+I love connecting great design with solid engineering to solve real problems.
 
 ---
 
 ## 🧠 About Me
 
-I'm a multidisciplinary developer passionate about building clean, performant, and user-centered digital experiences.  
-From crafting intuitive UI layouts to architecting scalable backend systems, I love turning ideas into seamless products.
+Multidisciplinary developer who enjoys the full spectrum:
 
-- 🧩 **Frontend Developer:** Creating responsive, elegant, and interactive interfaces using React, Next.js, TypeScript, and TailwindCSS.  
-- 💻 **Backend Developer:** Building scalable APIs and modern architectures with NestJS, Node.js, Spring Boot, Prisma, and GraphQL.  
-- 🎨 **Product Designer:** Focused on usability, aesthetics, and human-centered product experiences.  
-- 📱 **Android Enthusiast:** Building mobile apps using Kotlin, Jetpack Compose, Hilt, and Room with clean architecture principles.  
-- ⛓️ **Blockchain Developer:** Integrating wallets, smart contracts, multi-chain dApps, and real-time data with Solidity, Wagmi, Viem, RainbowKit, The Graph, and Alchemy.  
-- ☁️ **Cloud Explorer:** Comfortable with containerization and cloud workflows using Docker.
+- 🧩 Crafting **beautiful, responsive & interactive** frontends  
+- ⚙️ Building **fast, clean & maintainable** backend systems  
+- 🎨 Designing **intuitive, human-centered** product experiences  
+- 📱 Creating **modern native Android** applications  
+- ⛓️ Integrating **blockchain** wallets, smart contracts & on-chain data  
+- ☁️ Shipping production-ready apps with **Docker** & modern workflows
 
 ---
 
-## 🧰 Tech Stack  
+## 🛠️ Tech Stack
 
-### 🎨 Frontend Development  
+### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-### ⚙️ Backend Development  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-### 📱 Mobile App Development  
+### 📱 Mobile (Android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-00C4B3?style=for-the-badge&logo=dagger&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-00C4B4?style=for-the-badge&logo=dagger&logoColor=white)
 
----
-
-### ⛓️ Blockchain Development  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=webpack&logoColor=white)
+### ⛓️ Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-black?style=for-the-badge&logo=viem&logoColor=white)
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-FF7B00?style=for-the-badge&logo=rainbow&logoColor=white)
-![The Graph](https://img.shields.io/badge/The_Graph-5A1E9A?style=for-the-badge&logo=thegraph&logoColor=white)
+![The Graph](https://img.shields.io/badge/The%20Graph-5A1E9A?style=for-the-badge&logo=thegraph&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0C?style=for-the-badge&logo=alchemy&logoColor=white)
 
----
-
-### 🧰 Tools & Platforms  
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### ☁️ Cloud Services  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+## 🌍 Availability
+
+- **Open to remote work** worldwide 🌍  
+- **Available for local (Kenya)** full-time or freelance projects 🇰🇪  
+- Contract / full-time / interesting side projects — **feel free to reach out**
 
 ---
 
-### 🖌️ Design Tools  
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-
----
-
-## 🌐 Availability
-
-- **Remote:** Open to full-time or contract roles globally 🌍  
-- **Local (Kenya):** Available for full-time or freelance projects 🇰🇪  
-
----
-
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 - 📧 **Email:** [shakilochieng@gmail.com](mailto:shakilochieng@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/shakil-developsanddesign](https://www.linkedin.com/in/shakil-developsanddesign/)  
-- 🐦 **X (Twitter):** [x.com/_0xshakil](https://x.com/_0xshakil)  
+- 🐦 **X / Twitter:** [@_0xshakil](https://x.com/_0xshakil)  
 - 💻 **GitHub:** [github.com/0xshakilKE](https://github.com/0xshakilKE)
 
 ---
 
-### ✨ Quote  
 > “Great design isn’t just how it looks — it’s how it **works** and **feels**.”
 
 ---
 
-### ⚡ Fun Fact  
-When I’m not coding or designing, I’m probably exploring product design or doing some marketing.
+⚡ **Fun fact:** When I’m not coding or designing, I’m probably deep into product strategy, marketing experiments, or reading about the next big thing in Web3.
+
