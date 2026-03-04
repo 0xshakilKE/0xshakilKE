@@ -13,7 +13,7 @@ I love connecting great design with solid engineering to solve real problems.
 Multidisciplinary developer who enjoys the full spectrum:
 
 - 🧩 Crafting **beautiful, responsive & interactive** frontends  
-- ⚙️ Building **fast, clean & maintainable** backend systems  
+- ⚙️ Building **fast, clean & maintainable** backend systems & REST/GraphQL APIs  
 - 🎨 Designing **intuitive, human-centered** product experiences  
 - 📱 Creating **modern native Android** applications  
 - ⛓️ Integrating **blockchain** wallets, smart contracts & on-chain data  
@@ -35,6 +35,7 @@ Multidisciplinary developer who enjoys the full spectrum:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 📱 Mobile (Android)
@@ -54,11 +55,12 @@ Multidisciplinary developer who enjoys the full spectrum:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🖌️ Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF7C00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
 
